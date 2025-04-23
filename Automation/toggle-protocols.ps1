@@ -5,9 +5,9 @@
     Make sure to run as Administrator or with appropriate privileges.
 
 .NOTES
-    Author        : Josh Madakor
+    Author        : Ariel Torres
     Date Created  : 2024-09-09
-    Last Modified : 2024-09-09
+    Last Modified : 2024-09-27
     Version       : 1.0
 
 .TESTED ON
